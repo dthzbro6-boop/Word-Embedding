@@ -1,0 +1,9 @@
+{
+  "max_length": 24,
+  "padding": "post",
+  "truncating": "post",
+  "labels": [
+    "tiêu cực",
+    "tích cực"
+  ]
+}
